@@ -1,0 +1,31 @@
+*{
+    background-color: #1d83c2;
+}
+#boat{
+    height: 60px;
+    color:brown;
+    background-color: black;
+    border-width:5px;
+    border-style: solid;
+    border-color: white;
+}
+#cap{
+    color: red;
+    background-color: #0f1111;
+    margin-right: 200px;
+    font-size: 25px;
+    text-decoration: none;
+}
+.toy{
+    color: white;
+    background-color: black;
+    text-decoration: none;
+    margin-right: 200px;
+}
+.road{
+    background-color: white;
+}
+.train{
+    color:white;
+    background-color: #f08844;
+}
